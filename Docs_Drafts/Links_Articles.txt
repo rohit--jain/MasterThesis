@@ -1,0 +1,16 @@
+Testing BBR in Linux
+https://atoonk.medium.com/tcp-bbr-exploring-tcp-congestion-control-84c9c11dc3a9
+
+Spotify explains BBR with TCP
+https://engineering.atspotify.com/2018/08/smoother-streaming-with-bbr/
+
+Dropbox with BBR
+https://dropbox.tech/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
+https://dropbox.tech/infrastructure/evaluating-bbrv2-on-the-dropbox-edge-network
+
+Setting up BBR in Linux
+https://www.cyberciti.biz/cloud-computing/increase-your-linux-server-internet-speed-with-tcp-bbr-congestion-control/
+
+BBR v2 preview 
+https://github.com/google/bbr/blob/v2alpha/README.md
+

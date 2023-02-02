@@ -1,0 +1,58 @@
+Standardization of Low-Latency TCP with Explicit Congestion Notification: A Survey
+https://ieeexplore.ieee.org/abstract/document/7839868
+
+Low Latency Low Loss Scalable Throughput in 5G Networks
+https://ieeexplore.ieee.org/abstract/document/9448764/figures#figures
+
+Low Latency, Low Loss, Scalable Throughput (L4S) Internet Service: Architecture
+https://datatracker.ietf.org/doc/html/draft-ietf-tsvwg-l4s-arch
+
+BBR: Congestion-Based Congestion Control
+https://research.google/pubs/pub45646/
+
+https://riteproject.eu/dctth/
+
+https://www.youtube.com/watch?v=d6bBcw2E_ms
+https://www.youtube.com/watch?v=Llb0uogGEZg
+https://www.youtube.com/watch?v=tNGZofsSRpg
+
+https://www.informatik.tu-darmstadt.de/telekooperation/teaching_tk/abschlussarbeiten_tk/index.en.jsp
+https://www.informatik.tu-darmstadt.de/telekooperation/research_tk/sun_tk/index.en.jsp
+
+
+C++ Network Protocol Development
+https://commschamp.github.io/comms_protocols_cpp/
+
+
+Current Tabs
+----------------
+
+https://en.wikipedia.org/wiki/CUBIC_TCP 
+
+DCTDP
+https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf
+
+BBR
+https://www.youtube.com/watch?v=mnvuqLipNhg
+
+https://www.youtube.com/watch?v=VIX45zMMZG8
+
+Latex 
+https://www.overleaf.com/project/602a50296b408d7710be0cab
+
+https://supporthost.in/how-to-install-google-bbr/
+
+TCP BBR v2 Alpha/Preview Release  for Linux, and how to download, build, install, and test it.
+https://github.com/google/bbr/blob/v2alpha/README.md
+
+BBR TCP (Bottleneck Bandwidth and RTT) Implementations
+https://wiki.geant.org/pages/releaseview.action?pageId=121340614
+
+20200504 - Neal Cardwell - BBR: A Model-based Congestion Control
+https://www.youtube.com/watch?v=VIX45zMMZG8
+
+Implementing BBR 1.0 on top of UDP - remarks
+https://groups.google.com/g/bbr-dev/c/nRUx5mlIiqg
+
+QUIC vs TCP
+https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/
